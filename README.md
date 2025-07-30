@@ -1,2 +1,2 @@
 # MINI-PROJECTS
-Small projects by ANGELE YU
+I have tried building some small code basic projects as currently I am learning and applying my basic python skills.
